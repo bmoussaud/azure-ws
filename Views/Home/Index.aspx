@@ -24,7 +24,7 @@
 
 <div id="mapDivRight">
     <div class='hslice' id='2'>
-        <h2 class='entry-title'>Popular Dinners</h2>
+        <h2 class='entry-title'>XXX Popular Dinners</h2>
         <div class="entry-content" id="dinnerList"></div>
         <a rel='feedurl' href='/Dinners/WebSlicePopular' style='display:none;'></a>
     </div>
